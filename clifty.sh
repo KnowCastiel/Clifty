@@ -54,28 +54,14 @@ index=0
 #Normal Banner
 banner(){
         echo -e " "
-        echo -e "${MAGENTA}-----------------------------------------------------------${NC} "
-	echo -e "${MAGENTA}|       ${CYAN} ██████╗██╗     ██╗███████╗████████╗██╗   ██╗     ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}██╔════╝██║     ██║██╔════╝╚══██╔══╝╚██╗ ██╔╝     ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}██║     ██cu║     ██║█████╗     ██║    ╚████╔╝      ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}██║     ██║     ██║██╔══╝     ██║     ╚██╔╝       ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}╚██████╗███████╗██║██║        ██║      ██║        ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN} ╚═════╝╚══════╝╚═╝╚═╝        ╚═╝      ╚═╝        ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}-----------------------------------------------------------${NC}"
+   echo -e "${BOLDBLUE}         teste ${NC}"${NC}"
         echo -e ""
 }
 # Credits banner
 cbanner(){
         echo -e " "
-        echo -e "${MAGENTA}-----------------------------------------------------------${NC} "
-	echo -e "${MAGENTA}|       ${CYAN} ██████╗██╗     ██╗███████╗████████╗██╗   ██╗     ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}██╔════╝██║     ██║██╔════╝╚══██╔══╝╚██╗ ██╔╝     ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}██║     █cu█║     ██║█████╗     ██║    ╚████╔╝      ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}██║     ██║     ██║██╔══╝     ██║     ╚██╔╝       ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN}╚██████╗███████╗██║██║        ██║      ██║        ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}|       ${CYAN} ╚═════╝╚══════╝╚═╝╚═╝        ╚═╝      ╚═╝        ${MAGENTA}|${NC}"
-	echo -e "${MAGENTA}-----------------------------------------------------------${NC}"
-	echo -e "${BOLDBLUE}           ᴠᴇʀsɪᴏɴ 1.5               ＢＹ －ＡＬＹＧＮＴ           ${NC}"
+        echo -e "${BOLDBLUE}         teste ${NC}"
+        echo -e "${BOLDBLUE}           ᴠᴇʀsɪᴏɴ 1.5               ＢＹ －ＡＬＹＧＮＴ           ${NC}"
         echo -e ""
 }
 #Small Banner
