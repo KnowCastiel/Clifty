@@ -54,7 +54,7 @@ index=0
 #Normal Banner
 banner(){
         echo -e " "
-   echo -e "${BOLDBLUE}         teste ${NC}"${NC}"
+        echo -e "${BOLDBLUE}         testeee ${NC}"
         echo -e ""
 }
 # Credits banner
